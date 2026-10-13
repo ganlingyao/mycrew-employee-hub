@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "synthetic-hub-202b-v1",
+  "name": "Synthetic Hub transport check",
+  "description": "Synthetic fixture for Hub transport verification only.",
+  "publisherId": "145326144",
+  "publisher": "ganlingyao",
+  "sha256": "cb69d6af11c2b32d61350f71444cf8c79deb7d62197699b080e9cdafb8850760",
+  "bytes": 1768
+}
