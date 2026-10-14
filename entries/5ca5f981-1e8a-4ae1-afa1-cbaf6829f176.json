@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "5ca5f981-1e8a-4ae1-afa1-cbaf6829f176",
+  "name": "Hub 测试：网站开发与验收",
+  "description": "test",
+  "publisherId": "145326144",
+  "publisher": "ganlingyao",
+  "sha256": "a81b37906d11fb35598e9a3eb075890adfe839367d9f696ec77b2c93a74ec278",
+  "bytes": 3812,
+  "dependencies": [
+    {
+      "componentId": "f892078c-cd80-4ba5-b1f8-aa9b8d11a410",
+      "componentVersionId": "8d94f105-1dca-4134-ad26-6fe39fde9d26",
+      "contentHash": "c02fcea58c1b6fd97f745b02055eea63d785b0a647153602c29468ba0723ad67",
+      "sha256": "c152c3f35d79a500e8d06851c01b09ad5903c3bf55c3d0be86df0f8abe19bdb4",
+      "bytes": 8895,
+      "name": "网站开发师"
+    },
+    {
+      "componentId": "8a006b3b-4b90-4852-80b7-ec106e9c6f73",
+      "componentVersionId": "053342fc-6e39-438c-b366-d94d4672fd45",
+      "contentHash": "d89ee30fe07a92236b68110e55dd4792736f6b4242fc1d92df79190f2826a7a9",
+      "sha256": "32f6aee75b187129f7a9407fbeef71ddc4e66a16d34c93caf4c107761737bd92",
+      "bytes": 6903,
+      "name": "测试者"
+    }
+  ]
+}
