@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "a2dd620c-4d34-4141-90dd-5d89b245d61e",
+  "componentId": "c44d3d69-41e6-4b1f-9573-7b8431e0de00",
+  "publicationMode": "split",
+  "publishedAt": 1791958336000,
+  "members": [
+    {
+      "componentId": "c44d3d69-41e6-4b1f-9573-7b8431e0de00",
+      "entry": {
+        "schemaVersion": 1,
+        "id": "a2dd620c-4d34-4141-90dd-5d89b245d61e",
+        "name": "Hub 测试：扫描文件与分析",
+        "description": "te's't",
+        "publisherId": "145326144",
+        "publisher": "ganlingyao",
+        "sha256": "b9ea8293c642a17f5c35bf33fb66568f179f22bbdccfc6f11c138f6d9e84bee0",
+        "bytes": 4987,
+        "dependencies": [
+          {
+            "componentId": "8a006b3b-4b90-4852-80b7-ec106e9c6f73",
+            "componentVersionId": "e55f93a3-1abd-4bef-b3bb-c65d6334286a",
+            "contentHash": "ff23f06874da5f08393f6870b304ab20d0740739c87a9609ce09337614d93f39",
+            "sha256": "74b4e3937553a37ce511b90fcf16fd887b1640517f7c7f491cc5bf6b5b339e32",
+            "bytes": 6903,
+            "name": "测试者"
+          }
+        ]
+      }
+    },
+    {
+      "componentId": "8a006b3b-4b90-4852-80b7-ec106e9c6f73",
+      "entry": {
+        "schemaVersion": 1,
+        "id": "e55f93a3-1abd-4bef-b3bb-c65d6334286a",
+        "name": "测试者",
+        "description": "测试工作流程",
+        "publisherId": "145326144",
+        "publisher": "ganlingyao",
+        "sha256": "74b4e3937553a37ce511b90fcf16fd887b1640517f7c7f491cc5bf6b5b339e32",
+        "bytes": 6903
+      }
+    }
+  ]
+}
