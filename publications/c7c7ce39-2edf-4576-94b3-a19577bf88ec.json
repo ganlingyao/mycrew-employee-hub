@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "c7c7ce39-2edf-4576-94b3-a19577bf88ec",
+  "componentId": "43649d99-d016-4ce0-9b49-bc6bef379313",
+  "baseCommit": "e7f6755eb4d789b71642cc048a6555f0f362b0ff",
+  "publicationMode": "combined",
+  "publishedAt": 1792059916453,
+  "members": [
+    {
+      "componentId": "43649d99-d016-4ce0-9b49-bc6bef379313",
+      "entry": {
+        "schemaVersion": 1,
+        "id": "c7c7ce39-2edf-4576-94b3-a19577bf88ec",
+        "name": "开发工程师",
+        "description": "开发工程师和",
+        "publisherId": "145326144",
+        "publisher": "ganlingyao",
+        "sha256": "99bc63c461af84af9858acccf20bb0e562f4e8ea98dd019f5a0935869d2ea956",
+        "bytes": 8598,
+        "dependencies": []
+      }
+    }
+  ]
+}
