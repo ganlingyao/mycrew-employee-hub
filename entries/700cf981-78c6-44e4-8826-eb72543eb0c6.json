@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "700cf981-78c6-44e4-8826-eb72543eb0c6",
+  "name": "开发工程师",
+  "description": "开发任务接收、执行计划、中文 Issue、分支开发与人工验收的五阶段工作流。",
+  "publisherId": "145326144",
+  "publisher": "ganlingyao",
+  "sha256": "d448becab40354add6d7447cfe51859a4eee9e688efb62c33b0c8f2dd6ef82d5",
+  "bytes": 9761,
+  "dependencies": []
+}
