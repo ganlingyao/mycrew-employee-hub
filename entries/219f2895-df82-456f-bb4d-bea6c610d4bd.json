@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "219f2895-df82-456f-bb4d-bea6c610d4bd",
+  "name": "数据整理与图表网页",
+  "description": "test",
+  "publisherId": "145326144",
+  "publisher": "ganlingyao",
+  "sha256": "70717f0feeae640f4b4694163eb9046e0a813af57a1897966a41c0bbbe965765",
+  "bytes": 3748,
+  "dependencies": [
+    {
+      "componentId": "7dd3efed-0bc3-4626-ae41-a0402e4cb282",
+      "componentVersionId": "4a07df55-18b2-4c43-a228-6aca577ae5e7",
+      "contentHash": "726bc24a8e57baeafcd19b90950bb9e0deb236ec5721717bf403871ba481eea5",
+      "sha256": "8d738c56fa4e2d23bbc3088232b983bd494db9925b2e7eb8d78f8b4e65c24bdd",
+      "bytes": 4316,
+      "name": "数据可视化执行器（工作流依赖）"
+    }
+  ]
+}
