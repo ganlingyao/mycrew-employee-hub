@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
-  "id": "d59bc4fa-5fc6-4a7b-9c5b-54f42f9647dd",
+  "id": "700cf981-78c6-44e4-8826-eb72543eb0c6",
   "componentId": "43649d99-d016-4ce0-9b49-bc6bef379313",
   "baseCommit": "e7f6755eb4d789b71642cc048a6555f0f362b0ff",
   "publicationMode": "combined",
-  "publishedAt": 1792115813766,
+  "publishedAt": 1792118969554,
   "members": [
     {
       "componentId": "43649d99-d016-4ce0-9b49-bc6bef379313",
       "entry": {
         "schemaVersion": 1,
-        "id": "d59bc4fa-5fc6-4a7b-9c5b-54f42f9647dd",
+        "id": "700cf981-78c6-44e4-8826-eb72543eb0c6",
         "name": "开发工程师",
-        "description": "test",
+        "description": "开发任务接收、执行计划、中文 Issue、分支开发与人工验收的五阶段工作流。",
         "publisherId": "145326144",
         "publisher": "ganlingyao",
-        "sha256": "8ff8f0c8e6cab9b454b68dc526ead087cef5a2d047f4e325b25cad3b365ae436",
-        "bytes": 8589,
+        "sha256": "d448becab40354add6d7447cfe51859a4eee9e688efb62c33b0c8f2dd6ef82d5",
+        "bytes": 9761,
         "dependencies": []
       }
     }
