@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "6040f6a9-9c72-46ec-829c-ccac895ef3c1",
+  "componentId": "f36778ab-1645-49be-9e8a-fad912b5a8eb",
+  "baseCommit": "a48674df99cba4abf5e48f40cfa445c22acf0052",
+  "publicationMode": "combined",
+  "publishedAt": 1792398748793,
+  "members": [
+    {
+      "componentId": "f36778ab-1645-49be-9e8a-fad912b5a8eb",
+      "entry": {
+        "schemaVersion": 1,
+        "id": "6040f6a9-9c72-46ec-829c-ccac895ef3c1",
+        "name": "多语言翻译与质检专员",
+        "description": "多语言翻译，展示网站http://172.26.229.148:4178/",
+        "publisherId": "173056759",
+        "publisher": "yz121098",
+        "sha256": "3d6278936a7ff1de691f5d895b03717930d71d68450b9beda412eda2266a5136",
+        "bytes": 52063,
+        "dependencies": []
+      }
+    }
+  ]
+}
