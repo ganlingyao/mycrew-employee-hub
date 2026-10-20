@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "abc06114-b59b-4d69-8586-6f46450fde59",
+  "id": "5cecf624-0a8a-4daa-84f2-e2716d4101ab",
   "name": "多语言翻译与质检专员",
   "description": "test",
   "publisherId": "145326144",
   "publisher": "ganlingyao",
-  "sha256": "b796ecc919fe5caf93d1092d026fa833c74b9ca7b64a437963cea259e498a9b7",
+  "sha256": "ce1cf3e3a2b1533b6213e775fde6d9332cd9f3d896c1ea209a3da1ea46939bc7",
   "bytes": 67706,
   "dependencies": []
 }
