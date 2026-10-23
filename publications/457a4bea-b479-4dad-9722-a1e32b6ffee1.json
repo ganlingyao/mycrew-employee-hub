@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "457a4bea-b479-4dad-9722-a1e32b6ffee1",
+  "componentId": "11fba61e-7154-4585-b1d3-5256a899677e",
+  "baseCommit": "2c4ad36b145dee7116dd6108760775c73f810dee",
+  "publicationMode": "combined",
+  "publishedAt": 1792737360789,
+  "members": [
+    {
+      "componentId": "11fba61e-7154-4585-b1d3-5256a899677e",
+      "entry": {
+        "schemaVersion": 1,
+        "id": "457a4bea-b479-4dad-9722-a1e32b6ffee1",
+        "name": "文件扫描与统计（文件入包测试）",
+        "description": "22",
+        "publisherId": "145326144",
+        "publisher": "ganlingyao",
+        "sha256": "e4c3779f0caa30ade327b7b4f7013d1a093bdfd31e58bb30644d6a2e7c026d3d",
+        "bytes": 4918,
+        "dependencies": []
+      }
+    }
+  ]
+}
