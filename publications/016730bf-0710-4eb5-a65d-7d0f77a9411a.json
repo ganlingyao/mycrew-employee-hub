@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "016730bf-0710-4eb5-a65d-7d0f77a9411a",
+  "componentId": "fc5c86ab-d84e-407d-b6eb-d7e3027d00a8",
+  "baseCommit": "76c51e82b2c8a3be0015f5dbce88e331ca4d5b72",
+  "publicationMode": "combined",
+  "publishedAt": 1793153993051,
+  "members": [
+    {
+      "componentId": "fc5c86ab-d84e-407d-b6eb-d7e3027d00a8",
+      "entry": {
+        "schemaVersion": 1,
+        "id": "016730bf-0710-4eb5-a65d-7d0f77a9411a",
+        "name": "Reviewer",
+        "description": "11",
+        "publisherId": "145326144",
+        "publisher": "ganlingyao",
+        "sha256": "6d43b6db368038294e4912bb7f1938f2c1a2cac49d8b5fdf2962882491a2892c",
+        "bytes": 4629
+      }
+    }
+  ]
+}
